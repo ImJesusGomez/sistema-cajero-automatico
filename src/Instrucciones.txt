@@ -1,0 +1,24 @@
+## Problema imaginario en Java para mejorar la lógica de programación:
+
+**Descripción:**
+
+Desarrolle un programa en Java que simule un cajero automático simple. El programa debe permitir al usuario realizar las siguientes operaciones:
+
+1. Consultar el saldo de la cuenta.
+2. Depositar dinero en la cuenta.
+3. Retirar dinero de la cuenta.
+4. Salir del programa.
+
+**Conceptos a utilizar:**
+
+* Operadores aritméticos: Suma (+), resta (-), multiplicación (*), división (/), residuo (%)
+* Operadores de asignación: Asignación simple (=), asignación compuesta (+=, -=, *=, /=)
+* Operadores unarios: Negación (-), complemento a bits (~), incremento (++), decremento (--)
+* Operadores de incremento y decremento: Incremento pre-fijo (++variable), incremento post-fijo (variable++), decremento pre-fijo (--variable), decremento post-fijo (variable--)
+* Operadores relacionales: Igualdad (==), desigualdad (!=), menor que (<), menor o igual que (<=), mayor que (>), mayor o igual que (>=)
+* Operadores lógicos: AND (&&), OR (||), NOT (!)
+* Precedencia de los operadores lógicos: NOT tiene la mayor precedencia, seguido de AND y OR
+* Operador ternario: Operador condicional que evalúa una expresión booleana y devuelve uno de dos valores según el resultado (condición ? valor_verdadero : valor_falso)
+* Operador instanceof (Tipo de): Verifica si una instancia de un objeto es compatible con un tipo específico (objeto instanceof Tipo)
+* Operador instanceof con tipos abstractos: Puede usarse para verificar si una instancia de un objeto es compatible con un tipo abstracto o una interfaz
+* Precedencia de los operadores: La precedencia de los operadores determina el orden en que se evalúan en una expresión. Se pueden encontrar tablas de precedencia en línea o en la documentación de Java.
